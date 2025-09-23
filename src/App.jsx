@@ -6,7 +6,7 @@ import './App.css'
 //SIDE BAR PROFILE SECTION
 
 function ProfileImage() {
-  return <img src="Images/Profile.jpg" alt="Profile Picture" />
+  return <img src="src/Images/Profile.jpg" alt="Profile Picture" />
 
 }
 function FL_Name(props) {
