@@ -1,7 +1,7 @@
 /* === LAYOUT === */
 .container {
     display: flex;
-    width: 50vw;
+    width: 65vw;
     background-color: #bdbdbd;
 }
 
